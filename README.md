@@ -1,4 +1,28 @@
-<img width="1366" height="720" alt="Cuplikan layar 2026-04-07 151235" src="https://github.com/user-attachments/assets/11541ddf-5259-4a2f-9286-0aa19b25d5d2" />
+PRAKTIKUM 1 
+Membuat Halaman About
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-06 225236" src="https://github.com/user-attachments/assets/496b50ff-e2e8-4e5d-b5e4-6b80618d1d73" />
+Lalu, buat Header dan Footer nya dengan css sederhana dari praktikum 4 
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-06 231822" src="https://github.com/user-attachments/assets/7061ad0b-03b5-4f4f-a4d7-5424a9e0a7e8" />
+
+PRAKTIKUM 2 
+Membuat Artikel pertama dan Artikel kedua
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-07 125023" src="https://github.com/user-attachments/assets/8fa136c9-3c9c-482b-8f11-ce474df1126d" />
+Buat Dashboard Admin Dan CRUD Artikel
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-07 134154" src="https://github.com/user-attachments/assets/163b87b6-c68d-4903-af9a-3cf7a5fb3c4d" />
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-07 135752" src="https://github.com/user-attachments/assets/5d0e7540-97ff-4d93-9463-2b6789a0cb67" />
+
+PRAKTIKUM 3
+Melakukan Perubahan pada Artikel dengan menambahkan tanggal agar dapat mengambil data artikel terbaru.
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-07 142803" src="https://github.com/user-attachments/assets/b17080ec-56fc-4914-912f-f3524b5abd51" />
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-07 143007" src="https://github.com/user-attachments/assets/b1ff4803-0d0c-4a10-8495-0275d78d71b5" />
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-07 143023" src="https://github.com/user-attachments/assets/fb9461b3-ea19-4930-bc9a-13b89cd0e91b" />
+
+PRAKTIKUM 4
+Membuat User Login 
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-07 152834" src="https://github.com/user-attachments/assets/1630e992-999b-4e90-9e86-f4ffdfc49fe4" />
+
+
+
 
 
 
