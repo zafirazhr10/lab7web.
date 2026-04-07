@@ -1,3 +1,7 @@
+<img width="1366" height="720" alt="Cuplikan layar 2026-04-07 151235" src="https://github.com/user-attachments/assets/11541ddf-5259-4a2f-9286-0aa19b25d5d2" />
+
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
